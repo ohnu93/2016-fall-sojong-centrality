@@ -9,7 +9,7 @@ public class Position {
 		this.h2 = h2;
 		this.cluster = cluster;
 		this.position = position;
-		this.count = 0;
+		this.count = 1;
 	}
 	
 	public boolean isEqual(Position p) {
